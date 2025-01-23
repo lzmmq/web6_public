@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on </title>
+    <link>https://www.davidfreitag.com/experience/</link>
+    <description>Recent content in Experiences on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0100</lastBuildDate>
+    <atom:link href="https://www.davidfreitag.com/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Senior Data Engineer</title>
+      <link>https://www.davidfreitag.com/experience/job-1/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0100</pubDate>
+      <guid>https://www.davidfreitag.com/experience/job-1/</guid>
+      <description>&lt;h4 id=&#34;senior-data-engineer&#34;&gt;Senior Data Engineer&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Project leader: led a team of three engineers to build an ETL pipeline using Google Bigquery, Airflow, Docker, and Kubernetes to refresh AmFam’s largest auto modeling dataset, reducing the time-to-market cycle by months.&lt;/li&gt;&#xA;&lt;li&gt;Improved automation of multiple vendor file transfer processes using Python, GCP Storage API, Google Secret Manager, and GNU Privacy Guard. Decreased person-hours per transfer from 2 hours to 5 minutes per transfer.&lt;/li&gt;&#xA;&lt;li&gt;Mentored a Rotation Analyst in technical skills including Python, BigQuery/SQL, Git/GitLab, Airflow, Terraform, and various services in Google Cloud Platform (GCP) and Amazon Web Services (AWS).&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Data Engineer</title>
+      <link>https://www.davidfreitag.com/experience/job-2/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0100</pubDate>
+      <guid>https://www.davidfreitag.com/experience/job-2/</guid>
+      <description>&lt;h4 id=&#34;data-engineer&#34;&gt;Data Engineer&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Led my team’s Data Quality Initiative. Created best practices and guided implementation of automated processes for monitoring data quality. Automated identification of data quality issues monthly across 15+ datasets.&lt;/li&gt;&#xA;&lt;li&gt;Decreased runtime for an insurance re-rating process from 4 days to 1.5 hours by distributing the workload across multiple Kubernetes pods orchestrated with Airflow.&lt;/li&gt;&#xA;&lt;li&gt;Developed a fully automated ETL pipeline with Python, SQL, Airflow and GitLab CI/CD to produce a monthly product analysis dataset with 600+ attributes.&lt;/li&gt;&#xA;&lt;li&gt;Built a process for ad-hoc AWS Athena to GCP BigQuery data transfers using Airflow. Transferred terabytes of data using this process.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Data Science Intern</title>
+      <link>https://www.davidfreitag.com/experience/job-3/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
+      <guid>https://www.davidfreitag.com/experience/job-3/</guid>
+      <description>&lt;h3 id=&#34;data-science-intern&#34;&gt;Data Science Intern&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Analyzed global container scan data using Snowflake SQL, Python, and statistical testing to provide stakeholders with visibility into the Pitney Bowes network.&lt;/li&gt;&#xA;&lt;li&gt;Trained, tested, and tuned a machine learning model using LightGBM to predict cycle time for container journeys between locations within the Pitney Bowes network to improve container arrival forecasts.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
