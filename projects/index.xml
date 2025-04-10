@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on</title><link>https://web6-public.vercel.app/projects/</link><description>Recent content in Projects on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 30 Aug 2024 09:53:42 +0200</lastBuildDate><atom:link href="https://web6-public.vercel.app/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Fast transient pressure acoustic simulation NN</title><link>https://web6-public.vercel.app/projects/fast-transient-pressure-acoustic-simulation-nn/</link><pubDate>Fri, 30 Aug 2024 09:53:42 +0200</pubDate><guid>https://web6-public.vercel.app/projects/fast-transient-pressure-acoustic-simulation-nn/</guid><description>&lt;p>A project focused on simulating transient pressure acoustics using computational models and neural networks to study and predict sound propagation dynamics with high accuracy.&lt;/p></description></item><item><title>Bending moment generation</title><link>https://web6-public.vercel.app/projects/bending-moment-generation/</link><pubDate>Mon, 26 Aug 2024 09:53:42 +0200</pubDate><guid>https://web6-public.vercel.app/projects/bending-moment-generation/</guid><description>&lt;p>A package designed to generate bending moment data for structural analysis, leveraging influence line equations and customizable parameters for simulation and analysis.&lt;/p></description></item><item><title>BIM-Driven Engineering Building</title><link>https://web6-public.vercel.app/projects/bim_project/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>https://web6-public.vercel.app/projects/bim_project/</guid><description>&lt;p>This project focuses on leveraging Building Information Modeling (BIM) technologies to streamline the design and coordination of the new Engineering Building at the University of West Florida (UWF)&lt;/p></description></item><item><title>St. Augustine Airport Building - Base Bid “B”</title><link>https://web6-public.vercel.app/projects/base-bid-b/</link><pubDate>Fri, 25 Aug 2023 09:53:42 +0200</pubDate><guid>https://web6-public.vercel.app/projects/base-bid-b/</guid><description>&lt;p>Perform a detailed quantity takeoff for concrete, masonry, and metals divisions, and other divisions using RSMeans unit costs for St. Augustine-St. Johns County Airport Authority&lt;/p></description></item><item><title>Weigh-in-motion problem</title><link>https://web6-public.vercel.app/projects/weigh-in-motion-problem/</link><pubDate>Thu, 25 Aug 2022 09:53:42 +0200</pubDate><guid>https://web6-public.vercel.app/projects/weigh-in-motion-problem/</guid><description>&lt;p>Analyzing weigh-in-motion data using advanced machine learning models, enabling accurate vehicle classification and load assessment under dynamic conditions.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on </title>
+    <link>https://web6-public.vercel.app/projects/</link>
+    <description>Recent content in Projects on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 30 Aug 2024 09:53:42 +0200</lastBuildDate>
+    <atom:link href="https://web6-public.vercel.app/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fast transient pressure acoustic simulation NN</title>
+      <link>https://web6-public.vercel.app/projects/fast-transient-pressure-acoustic-simulation-nn/</link>
+      <pubDate>Fri, 30 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>https://web6-public.vercel.app/projects/fast-transient-pressure-acoustic-simulation-nn/</guid>
+      <description>&lt;p&gt;A project focused on simulating transient pressure acoustics using computational models and neural networks to study and predict sound propagation dynamics with high accuracy.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bending moment generation</title>
+      <link>https://web6-public.vercel.app/projects/bending-moment-generation/</link>
+      <pubDate>Mon, 26 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>https://web6-public.vercel.app/projects/bending-moment-generation/</guid>
+      <description>&lt;p&gt;A package designed to generate bending moment data for structural analysis, leveraging influence line equations and customizable parameters for simulation and analysis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BIM-Driven Engineering Building</title>
+      <link>https://web6-public.vercel.app/projects/bim_project/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>https://web6-public.vercel.app/projects/bim_project/</guid>
+      <description>&lt;p&gt;This project focuses on leveraging Building Information Modeling (BIM) technologies to streamline the design and coordination of the new Engineering Building at the University of West Florida (UWF)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>St. Augustine Airport Building - Base Bid “B”</title>
+      <link>https://web6-public.vercel.app/projects/base-bid-b/</link>
+      <pubDate>Fri, 25 Aug 2023 09:53:42 +0200</pubDate>
+      <guid>https://web6-public.vercel.app/projects/base-bid-b/</guid>
+      <description>&lt;p&gt;Perform a detailed quantity takeoff for concrete, masonry, and metals divisions, and other divisions using RSMeans unit costs for St. Augustine-St. Johns County Airport Authority&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Weigh-in-motion problem</title>
+      <link>https://web6-public.vercel.app/projects/weigh-in-motion-problem/</link>
+      <pubDate>Thu, 25 Aug 2022 09:53:42 +0200</pubDate>
+      <guid>https://web6-public.vercel.app/projects/weigh-in-motion-problem/</guid>
+      <description>&lt;p&gt;Analyzing weigh-in-motion data using advanced machine learning models, enabling accurate vehicle classification and load assessment under dynamic conditions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
