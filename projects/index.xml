@@ -9,11 +9,11 @@
     <lastBuildDate>Fri, 30 Aug 2024 09:53:42 +0200</lastBuildDate>
     <atom:link href="https://web6-public.vercel.app/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fast transient pressure acoustic simulation NN</title>
+      <title>Auto-regressive Acoustic Generative Model</title>
       <link>https://web6-public.vercel.app/projects/fast-transient-pressure-acoustic-simulation-nn/</link>
       <pubDate>Fri, 30 Aug 2024 09:53:42 +0200</pubDate>
       <guid>https://web6-public.vercel.app/projects/fast-transient-pressure-acoustic-simulation-nn/</guid>
-      <description>&lt;p&gt;A project focused on simulating transient pressure acoustics using computational models and neural networks to study and predict sound propagation dynamics with high accuracy.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A coarse-grained diffusion model enhanced with TWiST-Norm, designed for fast and accurate reconstruction of 2D acoustic pressure fields from limited prior frames while preserving key spatiotemporal features.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bending moment generation</title>
